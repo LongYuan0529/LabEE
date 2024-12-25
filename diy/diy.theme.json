@@ -1,13 +1,13 @@
 {
-    "title": "源了个源",
-    "desc": "你好！",
+    "title": "Lab EE",
+    "desc": "CNS",
     "bgm": "/sound-disco.mp3",
     "dark": true,
     "background": "",
     "backgroundBlur": false,
     "backgroundColor": "#8dac85",
     "pure": true,
-    "maxLevel": 50,
+    "maxLevel": 8,
     "icons": [
         {
             "name": "1",
@@ -66,6 +66,30 @@
         {
             "name": "10",
             "content": "/10.png",
+            "clickSound": "button-click",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "11",
+            "content": "/11.png",
+            "clickSound": "button-click",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "12",
+            "content": "/12.png",
+            "clickSound": "button-click",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "13",
+            "content": "/13.png",
+            "clickSound": "button-click",
+            "tripleSound": "triple"
+        },
+        {
+            "name": "14",
+            "content": "/14.png",
             "clickSound": "button-click",
             "tripleSound": "triple"
         }

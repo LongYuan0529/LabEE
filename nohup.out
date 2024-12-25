@@ -1,0 +1,14 @@
+yarn run v1.22.22
+$ vite --config diy/diy.vite.config.ts
+
+  VITE v3.1.0  ready in 246 ms
+
+  ➜  Local:   http://localhost:5556/
+  ➜  Network: http://10.181.222.217:5556/
+  ➜  Network: http://26.26.26.1:5556/
+files in the public directory are served at the root path.
+Instead of /public/favicon.ico, use /favicon.ico.
+files in the public directory are served at the root path.
+Instead of /public/favicon.ico, use /favicon.ico.
+files in the public directory are served at the root path.
+Instead of /public/favicon.ico, use /favicon.ico.
